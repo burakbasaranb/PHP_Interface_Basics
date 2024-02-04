@@ -4,8 +4,8 @@
 
 An interface in programming serves as a contract or a blueprint that defines a set of methodsthat a class must implement.
 
-Every function declared in an interface must be public; this is the nature of an interface.
-Every class that implements an interface must have these functions and its' variables.
+- Every function declared in an interface must be public; this is the nature of an interface.
+- Every class that implements an interface must have these functions and its' variables.
 
 ### Declare the interface 'Template'
 ```php
